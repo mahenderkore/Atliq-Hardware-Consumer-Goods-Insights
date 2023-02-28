@@ -18,5 +18,5 @@ Imagine yourself as the applicant for this role and perform the following task
 4.    Be creative with your presentation, audio/video presentation will have more weightage.
 
 
-![image](https://user-images.githubusercontent.com/124785788/221847349-923a9f1f-107e-47d7-9cff-1f57eb1d3447.png)
+
 
