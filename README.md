@@ -18,4 +18,4 @@ Imagine yourself as the applicant for this role and perform the following task
 4.    Be creative with your presentation, audio/video presentation will have more weightage.
 
 
-![image](https://user-images.githubusercontent.com/124785788/221846715-04f6478c-0768-467a-8310-e878b7c47cc8.png)
+[customer_goods_ad_hoc_solution_pdf.pdf](https://github.com/mahenderkore/Atliq-Hardware-Consumer-Goods-Insights/files/10849914/customer_goods_ad_hoc_solution_pdf.pdf)
