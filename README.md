@@ -15,4 +15,5 @@ Imagine yourself as the applicant for this role and perform the following task
 1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
 2.    You need to run a SQL query to answer these requests. 
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
-4.    Be creative with your presentation, audio/video presentation will have more weightage.
+4.    Be creative with your presentation, audio/vid[customer_goods_ad_hoc_solution_pdf.pdf](https://github.com/mahenderkore/Atliq-Hardware-Consumer-Goods-Insights/files/10849894/customer_goods_ad_hoc_solution_pdf.pdf)
+eo presentation will have more weightage.
