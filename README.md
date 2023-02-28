@@ -16,3 +16,6 @@ Imagine yourself as the applicant for this role and perform the following task
 2.    You need to run a SQL query to answer these requests. 
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 4.    Be creative with your presentation, audio/video presentation will have more weightage.
+
+
+![image](https://user-images.githubusercontent.com/124785788/221846715-04f6478c-0768-467a-8310-e878b7c47cc8.png)
